@@ -1,7 +1,6 @@
 # Capture Light 
 
-### Source code 
-[link to code](https://github.com/AmanH41/CPSC-599/blob/main/A0.ino)
+## [link to code](https://github.com/AmanH41/CPSC-599/blob/main/A0.ino)
 
 ### What is Capture Light? 
 This project is a reaction-based game using an Arduino Due, a set of 8 LEDs, and a button. The LEDs light up in a sequence, bouncing back and forth between two green LEDs on the middle with red LEDs at the ends. The player’s goal is to press the button when either of the green LEDs is lit. If they press the button on a red LED, they lose. The game speeds up when the player wins, making it progressively more challenging. The game is ment to capture the challenge and fun of a game that is commonly found in a arcade.
@@ -28,15 +27,14 @@ The speed caps at a certain level to prevent the game from becoming impossible.
 ### Circuit Schematic Diagram
 Circuit pic 
 
-Intial idea to final iteration
+## Initial idea to final iteration
 
-[Concept](https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0279.jpg)
+![alt text](https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0279.jpg)
 
-[Assets]
-https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0279.jpg
-https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0280.jpg
-https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0281.jpg
-https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0282.jpg
+![alt text](https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0279.jpg)
+![alt text](https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0280.jpg)
+![alt text](https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0281.jpg)
+![alt text](https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0282.jpg)
 
 
 ### Refrences 
