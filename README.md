@@ -39,14 +39,10 @@ Circuit pic
 
 
 
-<img src="https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0279.jpg" alt="Concept" style="width: 50%; height: auto;">
-<img src="https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0280.jpg" alt="alt text" width="50%" height="50%">
-
-
-
- <img src="https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0281.jpg" alt="alt text" width="50%" height="50%">
- <img src="https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0282.jpg" alt="alt text" width="50%" height="50%">
-
+<img src="Assets/IMG_0279.jpg" alt="Concept" style="width: 50%; height: auto;">
+<img src="Assets/IMG_0280.jpg" alt="img2" style="width: 50%; height: auto;">
+<img src="Assets/IMG_0281.jpg" alt="img3" style="width: 50%; height: auto;">
+<img src="Assets/IMG_0282.jpg" alt="img4" style="width: 50%; height: auto;">
 
 
 ### Refrences 
