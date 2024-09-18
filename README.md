@@ -33,10 +33,14 @@ Circuit pic
 
 ![img1](Assets/IMG_0279.jpg) ![img2](Assets/IMG_0280.jpg) ![img3](Assets/IMG_0281.jpg) ![img4](Assets/IMG_0282.jpg)
 ---------------------------------------------------------------------------------------------------------
-<img src="Assets/IMG_0279.jpg" alt="Concept" style="width: 50%; height: auto;">
-<img src="Assets/IMG_0280.jpg" alt="img2" style="width: 50%; height: auto;">
-<img src="Assets/IMG_0281.jpg" alt="img3" style="width: 50%; height: auto;">
-<img src="Assets/IMG_0282.jpg" alt="img4" style="width: 50%; height: auto;">
+<div style="text-align: center;">
+  <img src="Assets/IMG_0279.jpg" alt="Concept" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="Assets/IMG_0280.jpg" alt="img2" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+</div>
+<div style="text-align: center;">
+  <img src="Assets/IMG_0281.jpg" alt="img3" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="Assets/IMG_0282.jpg" alt="img4" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+</div>
 
 
 ### Refrences 
