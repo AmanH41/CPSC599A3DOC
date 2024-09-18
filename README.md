@@ -3,16 +3,18 @@
 ### Source code 
 link to code
 
-### Abstract 
-asdasdasd
+### light Capture 
+short intrduction 
 
-### Project Documentation 
-Stuff
+## Project Documentation 
+### How Does it Work?
+Discription
+### Demo Video 
+video 
 
 ### Circuit Schematic Diagram
 Circuit pic 
 
-### Demo Video 
-video 
 
 ### Refrences 
+refrence 
