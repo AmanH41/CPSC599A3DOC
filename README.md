@@ -28,6 +28,8 @@ The speed caps at a certain level to prevent the game from becoming impossible.
 Circuit pic 
 
 ## Initial idea to final iteration
+<p 
+
 ![Concept](https://github.com/AmanH41/CPSC-599/blob/main/Assets/PENUP_20240918_101650.png)
 
 ![img1](Assets/IMG_0279.jpg)
@@ -37,7 +39,7 @@ Circuit pic
 
 
 
-<img src="https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0279.jpg" alt="alt text" width="50%" height="50%"/>
+<img src="https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0279.jpg" alt="Concept" style="width: 50%; height: auto;">
 <img src="https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0280.jpg" alt="alt text" width="50%" height="50%">
 
 
