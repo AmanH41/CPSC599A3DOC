@@ -1,7 +1,7 @@
 # Proj Name 
 
 ### Source code 
-link to code
+[link to code](https://github.com/AmanH41/CPSC-599/blob/main/A0.ino)
 
 ### light Capture 
 short intrduction 
