@@ -29,12 +29,12 @@ The speed caps at a certain level to prevent the game from becoming impossible.
 Circuit pic 
 
 Intial idea to final iteration
-[Concept https://github.com/AmanH41/CPSC-599/blob/main/Assets/PENUP_20240918_101650.png
-](https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0279.jpg
-)
-https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0279.jpg
 
-[Assets/IMG_0280.jpg](https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0280.jpg)
+[Concept](https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0279.jpg)
+
+[Assets]
+https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0279.jpg
+https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0280.jpg
 https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0281.jpg
 https://github.com/AmanH41/CPSC-599/blob/main/Assets/IMG_0282.jpg
 
