@@ -48,5 +48,4 @@ The speed caps at a certain level to prevent the game from becoming impossible.
 </div>
 
 ## Reference 
-[ARDX open Source Arduino instruction guide ](https://oomlout.com/a/products/ardx/)
-Was used for code and circuit setup 
+[ARDX open Source Arduino instruction guide ](https://oomlout.com/a/products/ardx/) - Was used for code and circuit setup 
