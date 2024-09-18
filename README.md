@@ -46,3 +46,7 @@ The speed caps at a certain level to prevent the game from becoming impossible.
   <img src="Assets/IMG_0281.jpg" alt="img3" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
   <img src="Assets/IMG_0282.jpg" alt="img4" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
+
+## Reference 
+[ARDX open Source Arduino instruction guide ](https://oomlout.com/a/products/ardx/)
+Was used for code and circuit setup 
