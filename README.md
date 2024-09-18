@@ -21,18 +21,17 @@ If the player presses the button when a red LED is lit, they lose. The red LED w
 
 The game starts with a moderate speed and increases after each win by reducing the delay between LED transitions.
 The speed caps at a certain level to prevent the game from becoming impossible.
+
 ### Demo Video 
- 
+[Demo Video](https://www.youtube.com/watch?v=pOdP_8pd2zY&ab_channel=AmanAli) 
 
 ### Circuit Schematic Diagram
 Circuit pic 
 
 ## Initial idea to final iteration
+concept
+<img src="Assets/PENUP_20240918_101650.png" alt="Concept" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 
-![Concept](Assets/PENUP_20240918_101650.png)
-
-![img1](Assets/IMG_0279.jpg) ![img2](Assets/IMG_0280.jpg) ![img3](Assets/IMG_0281.jpg) ![img4](Assets/IMG_0282.jpg)
----------------------------------------------------------------------------------------------------------
 <div style="text-align: center;">
   <img src="Assets/IMG_0279.jpg" alt="Concept" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
   <img src="Assets/IMG_0280.jpg" alt="img2" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
