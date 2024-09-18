@@ -29,8 +29,10 @@ The speed caps at a certain level to prevent the game from becoming impossible.
 Circuit pic 
 
 ## Initial idea to final iteration
-concept
-<img src="Assets/PENUP_20240918_101650.png" alt="Concept" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+
+<div style="text-align: center;">
+  <img src="Assets/PENUP_20240918_101650.png" alt="Concept" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+</div>
 
 <div style="text-align: center;">
   <img src="Assets/IMG_0279.jpg" alt="Concept" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
