@@ -23,10 +23,14 @@ The game starts with a moderate speed and increases after each win by reducing t
 The speed caps at a certain level to prevent the game from becoming impossible.
 
 ### Demo Video 
-[Demo Video](https://www.youtube.com/watch?v=pOdP_8pd2zY&ab_channel=AmanAli) 
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pOdP_8pd2zY" 
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
+</div>
 
 ### Circuit Schematic Diagram
-Circuit pic 
+<img src="Assets/A0Circuit-schematic.PNG" alt="Circuit" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 
 ## Initial idea to final iteration
 
@@ -43,6 +47,3 @@ Circuit pic
   <img src="Assets/IMG_0282.jpg" alt="img4" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
 
-
-### Refrences 
-reference 
