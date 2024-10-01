@@ -1,55 +1,32 @@
 # RPS BattleZ
 
-## [link to code](https://glitch.com/edit/#!/cpsc-581-project-1-rps?path=button_handling.js%3A26%3A2)
+### [link to code](https://glitch.com/edit/#!/cpsc-581-project-1-rps?path=button_handling.js%3A26%3A2)
 
-### Overall Description
+## Overall Description
+Our project revolves around a two-button game that mirrors my passion for fighting games and competitive spirit. Drawing inspiration from my love for fighting games and the thrill of competitive games, we designed a game based on the traditional "Rock, Paper, Scissors" concept but with a creative twist that reflects my interests.
 
+The game includes three main actions: Attack, Parry, and Block, each corresponding to familiar fighting game moves. These interactions go beyond the standard RPS format, incorporating fighting game strategy, where each move  counters another. This variation adds depth and strategy, capturing the excitement of fast-paced decisions in competitive gameplay. The game's inspiration comes from iconic Street fighter 3, adding nostalgic elements that speak to my fondness for the Street Fighter series.
+
+With two simple buttons, players can make decisions that impact the battle between two on-screen characters. The design intentionally reflects the classic arcade era, featuring a sleek yet nostalgic aesthetic to make the experience both engaging and visually captivating. The simplicity of the controls, paired with the rich visual and strategic depth, creates a game that's both fun and challenging, embodying the spirit of the competitive gaming I love.
 
 ## Concept sketches
-
-
-
-### How Does it Work?
-1. LED Sequence:
-There are 8 LEDs in total: two green LEDs at positions 3 and 4, and six red LEDs at the left-right ends.
-The LEDs light up sequentially, starting from the first red LED and moving toward the LED at the other end.
-When the sequence reaches the end, it reverses direction, bouncing back to the first red LED.
-Only one LED is lit at a time, and the previous one turns off when the next LED lights up.
-
-2. Player Input:
-The player must press the button when either green LED is lit.
-If the player presses the button when a green LED is on, they win. The green LED will blink as a reward, and the game will speed up.
-If the player presses the button when a red LED is lit, they lose. The red LED will blink, and the game resets after a short pause.
-
-3. Speed Mechanism:
-The game starts with a moderate speed and increases after each win by reducing the delay between LED transitions.
-The speed caps at a certain level to prevent the game from becoming impossible.
-
-### Demo Video 
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/pOdP_8pd2zY" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-  </iframe>
+  <img src="" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
+write some shit for the sketch ideas
 
-### Circuit Schematic Diagram
+## Refined Sketches 
 <div style="text-align: center;">
-  <img src="Assets/A0Circuit-schematic.PNG" alt="Circuit" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-</div>
-## Initial idea to final iteration
-
-<div style="text-align: center;">
-  <img src="Assets/PENUP_20240918_101650.png" alt="Concept" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
 
 <div style="text-align: center;">
-  <img src="Assets/IMG_0279.jpg" alt="Concept" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="Assets/IMG_0280.jpg" alt="img2" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
 <div style="text-align: center;">
-  <img src="Assets/IMG_0281.jpg" alt="img3" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="Assets/IMG_0282.jpg" alt="img4" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
+
+
 
 ## Reference 
 [ARDX open Source Arduino instruction guide ](https://oomlout.com/a/products/ardx/) - Was used for code and circuit setup 
