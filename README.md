@@ -1,10 +1,14 @@
-# Capture Light 
+# RPS BattleZ
 
-## [link to code](https://github.com/AmanH41/CPSC-599/blob/main/A0.ino)
+## [link to code](https://glitch.com/edit/#!/cpsc-581-project-1-rps?path=button_handling.js%3A26%3A2)
 
-### What is Capture Light? 
-This project is a reaction-based game using an Arduino Due, a set of 8 LEDs, and a button. The LEDs light up in a sequence, bouncing back and forth between two green LEDs on the middle with red LEDs at the ends. The player’s goal is to press the button when either of the green LEDs is lit. If they press the button on a red LED, they lose. The game speeds up when the player wins, making it progressively more challenging. The game is meant to capture the challenge and fun of a game that is commonly found in an arcade.
-## Project Documentation 
+### Overall Description
+
+
+## Concept sketches
+
+
+
 ### How Does it Work?
 1. LED Sequence:
 There are 8 LEDs in total: two green LEDs at positions 3 and 4, and six red LEDs at the left-right ends.
