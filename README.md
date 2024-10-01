@@ -11,19 +11,38 @@ With two simple buttons, players can make decisions that impact the battle betwe
 
 ## Concept sketches
 <div style="text-align: center;">
-  <img src="" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="IMG_0276.jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
-write some shit for the sketch ideas
+
+<p>
+1. Fighting game featuring two actions: attack and block, functioning as a rock-paper-scissors mechanics.
+2. Auto battler where players click to attack monsters, gaining experience points to level up.
+3. Gacha game that allows players to create and draw cards from a rarity-based pool.
+4. MOBA-like battle arena game.
+5. Souls-lite dungeon battler where players can move and attack incoming monsters.
+6. Island traversal game where players explore islands, each representing different aspects of their personality or life.
+7. Treasure hunt game where users click to find hidden dragon balls on a map.
+8. Happiness management game where players balance parental expectations of studying with their enjoyment of gaming.
+9. Shoe discovery game where users swipe right for shoes they like and left for those they dislike.
+10. Stamina management game where users hike up a mountain while managing their stamina.
+</p>
+
+
 
 ## Refined Sketches 
 <div style="text-align: center;">
-  <img src="" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_1 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
 
 <div style="text-align: center;">
-  <img src="" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_2 (1).jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
+<p>
+  
+</p>
+
 <div style="text-align: center;">
+  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_2 (1).jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
 
 
