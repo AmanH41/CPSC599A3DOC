@@ -24,16 +24,13 @@ With two simple buttons, players can make decisions that impact the battle betwe
 9. Shoe discovery game where users swipe right for shoes they like and left for those they dislike.
 10. Stamina management game where users hike up a mountain while managing their stamina.
 
-
-
-
 ## Refined Sketches 
 <div style="text-align: center;">
   <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_1 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
     <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_2 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
     <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_3 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
   <p>
-Each sketch represents the conceptual development of my RPS (Rock-Paper-Scissors) game, which was my initial idea for Assignment 1. The refined sketch evolved from this concept, allowing me to ideate different gameplay mechanics and design.
+Each sketch represents the conceptual development of my RPS (Rock-Paper-Scissors) game, which was my initial idea for Assignment 1. The refined sketch evolved from this concept, allowing me to ideate different gameplay mechanics and designs.
 
 I chose to refine this idea because it aligns with my passion for fighting games and competitive play, making it a natural fit for my project. These sketches showcase the progression from the initial idea to the more developed final version.
 
@@ -44,17 +41,13 @@ Ultimately, my application meets the assignment's objectives by reflecting my in
 </div>
 
 <div style="text-align: center;">
-  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_2 (1).jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_4 (1).jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_5 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_6 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+
 </div>
 <p>
-  
+These refined sketches were derived from concept ideas 2 and 3. Instead of having separate buttons for attacking and leveling up, I decided to consolidate the actions into one button for attacking and blocking, allowing leveling up to occur as a natural result of battles. This approach enhances the gameplay experience.
+
+Additionally, I envisioned combining the auto battler and gacha game concepts, where players summon rare cards—each with its own rarity—to fight monsters. However, I encountered challenges regarding the game's complexity and its connection to my personality. While I enjoy gacha and hunting games, I struggled to find a deeper personal connection beyond my love for these genres.
 </p>
-
-<div style="text-align: center;">
-  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_2 (1).jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-</div>
-
-
-
-## Reference 
-[ARDX open Source Arduino instruction guide ](https://oomlout.com/a/products/ardx/) - Was used for code and circuit setup 
