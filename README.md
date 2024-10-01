@@ -13,8 +13,6 @@ With two simple buttons, players can make decisions that impact the battle betwe
 <div style="text-align: center;">
   <img src="IMG_0276.jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
-
-<p>
 1. Fighting game featuring two actions: attack and block, functioning as a rock-paper-scissors mechanics.
 2. Auto battler where players click to attack monsters, gaining experience points to level up.
 3. Gacha game that allows players to create and draw cards from a rarity-based pool.
@@ -25,13 +23,24 @@ With two simple buttons, players can make decisions that impact the battle betwe
 8. Happiness management game where players balance parental expectations of studying with their enjoyment of gaming.
 9. Shoe discovery game where users swipe right for shoes they like and left for those they dislike.
 10. Stamina management game where users hike up a mountain while managing their stamina.
-</p>
+
 
 
 
 ## Refined Sketches 
 <div style="text-align: center;">
   <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_1 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+    <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_2 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+    <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_3 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <p>
+Each sketch represents the conceptual development of my RPS (Rock-Paper-Scissors) game, which was my initial idea for Assignment 1. The refined sketch evolved from this concept, allowing me to ideate different gameplay mechanics and design.
+
+I chose to refine this idea because it aligns with my passion for fighting games and competitive play, making it a natural fit for my project. These sketches showcase the progression from the initial idea to the more developed final version.
+
+Ultimately, my application meets the assignment's objectives by reflecting my interests in gaming and competition, resulting in an engaging experience.
+
+    
+  </p>
 </div>
 
 <div style="text-align: center;">
