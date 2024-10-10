@@ -1,6 +1,6 @@
 # Musical Canvas 
 
-### [link to code]()
+### [link to code](https://github.com/AmanH41/CPSC599A1/blob/41984f033abd90305d90bb703be08bec60a39cd7/A1.ino)
 
 ## Overall Description
 Musical Canvas is an innovative instrument that allows artists and musicians to add a unique soundtrack to their creations. Using two ultrasonic sensors, the system maps specific musical notes from the pentatonic scale to different paint choices. This setup enables even those without musical backgrounds to create harmonious music as they paint.
@@ -44,4 +44,9 @@ After the user completes their artwork, the system will play back the sequence o
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
+
+## Refrence 
+[Guide for ultrasonic Sensor](https://www.instructables.com/How-to-Use-the-HC-SR04-Ultrasonic-Sensor-With-the-/) 
+[Additional guide for other sensors](https://spot.pcc.edu/~dgoldman/labs/37SENSORKIT.pdf) 
+
 
