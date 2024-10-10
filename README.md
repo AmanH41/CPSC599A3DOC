@@ -19,19 +19,24 @@ As the user paints with different colors, the system dynamically changes the not
 3. Post-Painting Playback (was not able to implement this):
 After the user completes their artwork, the system will play back the sequence of notes in the order they were used during the painting process. This creates a unique musical composition that reflects the creation of the artwork, adding an audio dimension to the visual experience.
 
-## Initial idea to final iteration
+## Initial idea
 <div style="text-align: center;">
   <img src="A1 idea sketches _241009_210723_1.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
     <img src="A1 idea sketches _241009_210723_2.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
   <img src="IMG_0297.jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
 
+## final iteration
 <div style="text-align: center;">
-  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_5 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="drive-download-20241001T033132Z-001/A1 Refined sketches_240930_201617_6 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="IMG_0302.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="IMG_0303.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="IMG_0304.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
 
 ### Circuit Schematic Diagram
+<div style="text-align: center;">
+  <img src="CPSC599A1circuit.png" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+</div>
 
 ### Demo Video 
 <div style="text-align: center;">
@@ -40,5 +45,3 @@ After the user completes their artwork, the system will play back the sequence o
   </iframe>
 </div>
 
-
-## Project Contribution
