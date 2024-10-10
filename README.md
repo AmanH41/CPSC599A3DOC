@@ -40,7 +40,7 @@ After the user completes their artwork, the system will play back the sequence o
 
 ### Demo Video 
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="https://youtu.be/Ia-3yWniXXw" 
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ia-3yWniXXw&ab_channel=AmanAlittps://youtu.be/Ia-3yWniXXw" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
