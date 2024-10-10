@@ -47,7 +47,7 @@ After the user completes their artwork, the system will play back the sequence o
 
 
 ## Refrence 
-[Guide for ultrasonic Sensor](https://www.instructables.com/How-to-Use-the-HC-SR04-Ultrasonic-Sensor-With-the-/) /n
-[Additional guide for other sensors](https://spot.pcc.edu/~dgoldman/labs/37SENSORKIT.pdf) 
+ [Guide for ultrasonic Sensor](https://www.instructables.com/How-to-Use-the-HC-SR04-Ultrasonic-Sensor-With-the-/)
+ [Additional guide for other sensors](https://spot.pcc.edu/~dgoldman/labs/37SENSORKIT.pdf) 
 
 
