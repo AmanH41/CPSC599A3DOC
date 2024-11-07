@@ -1,6 +1,6 @@
 # Mental Fighter 
 
-### [link to code](A2.ino)
+### [link to code](https://github.com/AmanH41/CPSC599A2/blob/836c76745311b487e1c1783e96ece04349de1188/A2.ino)
 
 ## Overall Description
 Mental Fighter is a physical representation of a fighting game player’s “mental”—the complex series of thoughts and emotions (joy, anger, frustration, confusion, etc.) that players experience as they progress through rounds and matches. Mental Fighter visualizes these mental states, providing players with feedback on their emotional and psychological condition throughout gameplay.
