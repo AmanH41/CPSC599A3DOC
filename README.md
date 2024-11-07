@@ -23,17 +23,27 @@ As the artist selects different paints, each color triggers a corresponding note
 
 ## Initial ideas
 <div style="text-align: center;">
-  <img src="A1 idea sketches _241009_210723_1.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-   <img src="A1 idea sketches _241009_210723_2.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="IMG_0297.jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/Assignment 2_241106_215100_3.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+   <img src="CPSC599A2Images/Assignment 2_241106_215100_2.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+   <p> Text explaining initial ideas</p>
 </div>
 
 ## Prototypes 
 <div style="text-align: center;">
-  <img src="IMG_0302.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="IMG_0303.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="IMG_0304.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/IMG_0336.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/IMG_0337.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/IMG_0338.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/IMG_0339.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+   <p>Test explaining early prototypes </p>
 </div>
+<div style="text-align: center;">
+  <img src="CPSC599A2Images/IMG_0340.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/IMG_0341.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/IMG_0342.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/IMG_0343.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+   <p>Test explaining pre-final and final prototypes </p>
+</div>
+
 
 ### Circuit Schematic Diagram
 <div style="text-align: center;">
@@ -49,7 +59,8 @@ As the artist selects different paints, each color triggers a corresponding note
 
 
 ## Refrence 
-<a href="https://www.instructables.com/How-to-Use-the-HC-SR04-Ultrasonic-Sensor-With-the-/">Guide for ultrasonic Sensor</a><br>
-<a href="https://spot.pcc.edu/~dgoldman/labs/37SENSORKIT.pdf">Additional guide for other sensors</a>
+<a href="https://docs.arduino.cc/learn/electronics/servo-motors/">Guide for servo motors </a><br>
+<a href="https://www.youtube.com/watch?v=tF3-zdU4qhw&ab_channel=TD_Sculptures%26Crafts">tutorial helped with building mental fighters body </a>
+<a href="https://www.youtube.com/watch?v=4tjkLSWzl_g&list=PL9ZvIWB2N7tS1Q2JEs3H-poSWc0xKp8f8&ab_channel=PaperPatriot">tutorial helped with building mental fighters body </a>
 
 
