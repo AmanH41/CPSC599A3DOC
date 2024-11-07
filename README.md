@@ -23,16 +23,19 @@ After each match, players can assess their Mental Fighter’s condition and deci
 
 ## Initial ideas
 <div style="text-align: center;">
-  <img src="CPSC599A2Images/Assignment 2_241106_215100_3.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+    <img src="CPSC599A2Images/Assignment 2_241106_215100_1.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
    <img src="CPSC599A2Images/Assignment 2_241106_215100_2.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-   <p> Text explaining initial ideas</p>
+    <img src="CPSC599A2Images/Assignment 2_241106_215100_3.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+   <p> Initially, my ideas centered around creating a figure that would move based on some form of data—though I wasn't sure at the time what that data would represent. Other concepts included a physical representation of a person’s mental state, embodied by a “brain” that would animate, and a robot with hotspots around its body that would move or glow in response to data inputs.
+
+As I refined these ideas, I focused more on concepts inspired by my passion for fighting games and competitive spirit. This led me to develop ideas that capture that drive, translating the emotional and mental intensity of gameplay into physical actions and expressions.</p>
 </div>
 
 ## Prototypes 
 <style>
   .prototype-images {
     width: auto;           /* Allow width to scale naturally */
-    height: 35rem;         /* Set a consistent height for all images */
+    height: 25rem;         /* Set a consistent height for all images */
     max-width: 55%;        /* Limit the width to a reasonable percentage */
     display: inline-block;
     margin: 10px;
@@ -44,7 +47,10 @@ After each match, players can assess their Mental Fighter’s condition and deci
   <img src="CPSC599A2Images/IMG_0337.PNG" class="prototype-images">
   <img src="CPSC599A2Images/IMG_0338.PNG" class="prototype-images">
   <img src="CPSC599A2Images/IMG_0339.PNG" class="prototype-images">
-  <p>Test explaining early prototypes</p>
+  <p>
+These early prototypes explored using a single servo to control the entire arm for punch and block actions. Initially, controlling the shoulder/upper arm was straightforward, but getting the forearm to move smoothly was challenging. I rigged a mechanism to keep the fist vertical relative to the shoulder, allowing it to transition easily between punch and block positions. However, the main issue was friction: as the arm moved horizontally, it often got caught on the edges of the cardboard base due to the angle and stability of the structure.
+
+To reduce friction, I added tape, which helped when moving the arm manually. However, the servo motor couldn’t push and pull the arm effectively, as the structure’s alignment wasn’t precise enough, causing it to snag at certain points. The second prototype was essentially a 3D version of the first, which I hoped would have greater structural integrity. However, testing revealed similar issues with friction and alignment, preventing smooth movement.</p>
 </div>
 
 <div style="text-align: center;">
@@ -52,7 +58,9 @@ After each match, players can assess their Mental Fighter’s condition and deci
   <img src="CPSC599A2Images/IMG_0341.PNG" class="prototype-images">
   <img src="CPSC599A2Images/IMG_0342.PNG" class="prototype-images">
   <img src="CPSC599A2Images/IMG_0343.PNG" class="prototype-images">
-  <p>Test explaining pre-final and final prototypes</p>
+  <p>The third prototype served as a precursor to the final version. In this iteration, I decided to add an internal servo specifically for moving the forearm, which allowed for greater control of the entire arm and provided additional options for expressive actions.
+
+For the final version, I further enhanced the design by adding legs, as the torso alone felt incomplete. The legs now contribute to the “block” and “super block” animations, creating a more dynamic range of expressions and enabling potential future features, like kicks. With a more humanoid figure in place, I also added a head to complete the design and give Mental Fighter a fully rounded appearance.</p>
 </div>
 
 
