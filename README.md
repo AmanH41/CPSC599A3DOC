@@ -58,12 +58,12 @@ As the artist selects different paints, each color triggers a corresponding note
 
 ### Circuit Schematic Diagram
 <div style="text-align: center;">
-  <img src="CPSC599A1circuit.png" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/CPSC599A2Circuit.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
 
 ### Demo Video 
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ia-3yWniXXw" 
+  <iframe width="560" height="315" src="" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
