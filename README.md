@@ -32,7 +32,7 @@ After each match, players can assess their Mental Fighter’s condition and deci
 <style>
   .prototype-images {
     width: auto;           /* Allow width to scale naturally */
-    height: 50rem;         /* Set a consistent height for all images */
+    height: 35rem;         /* Set a consistent height for all images */
     max-width: 55%;        /* Limit the width to a reasonable percentage */
     display: inline-block;
     margin: 10px;
