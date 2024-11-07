@@ -72,6 +72,6 @@ After each match, players can assess their Mental Fighter’s condition and deci
 ## Refrence 
 <a href="https://docs.arduino.cc/learn/electronics/servo-motors/">Guide for servo motors </a><br>
 <a href="https://www.youtube.com/watch?v=tF3-zdU4qhw&ab_channel=TD_Sculptures%26Crafts">tutorial helped with building mental fighters body </a><br>
-<a href="https://www.youtube.com/watch?v=4tjkLSWzl_g&list=PL9ZvIWB2N7tS1Q2JEs3H-poSWc0xKp8f8&ab_channel=PaperPatriot">tutorial helped with building mental fighters body </a>
+<a href="https://www.youtube.com/watch?v=4tjkLSWzl_g&list=PL9ZvIWB2N7tS1Q2JEs3H-poSWc0xKp8f8&ab_channel=PaperPatriot">this tutorial also helped with building mental fighters body </a>
 
 
