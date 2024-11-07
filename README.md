@@ -31,12 +31,11 @@ As the artist selects different paints, each color triggers a corresponding note
 ## Prototypes 
 <style>
   .prototype-images {
-    width: 45%;
-    height: auto;
-    aspect-ratio: 1 / 1; /* Ensures images maintain a square shape */
+    width: auto;           /* Allow width to scale naturally */
+    height: 250px;         /* Set a consistent height for all images */
+    max-width: 45%;        /* Limit the width to a reasonable percentage */
     display: inline-block;
     margin: 10px;
-    object-fit: cover; /* Ensures image fills the container without distortion */
   }
 </style>
 
