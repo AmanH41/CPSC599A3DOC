@@ -3,22 +3,22 @@
 ### [link to code](A2.ino)
 
 ## Overall Description
-Musical Canvas is an innovative instrument that allows artists and musicians to add a unique soundtrack to their creations. Using two ultrasonic sensors, the system maps specific musical notes from the pentatonic scale to different paint choices. This setup enables even those without musical backgrounds to create harmonious music as they paint.
+Mental Fighter is a physical representation of a fighting game player’s “mental”—the complex series of thoughts and emotions (joy, anger, frustration, confusion, etc.) that players experience as they progress through rounds and matches. Mental Fighter visualizes these mental states, providing players with feedback on their emotional and psychological condition throughout gameplay.
 
-As the artist selects different paints, each color triggers a corresponding note, enriching the creative process. The second ultrasonic sensor detects when the artist is actively painting, causing the selected notes to play in real-time, based on the chosen colors. Once the artwork is complete, the system plays back the sequence of notes used, creating a unique musical composition that accompanies the visual piece.
+A common question might be, “Why would competitive players need visual feedback about their feelings?” Competitive players are often driven to keep playing regardless of frustration, anger, or other negative emotions that arise during a session. Ignoring these feelings can impact decision-making, mechanical skill, and even mental health.
+
+Mental Fighter offers a solution by showing players their “mental” state after each match. This reflection allows them to assess whether they should continue playing or take a short break to reset and improve their mindset.
 ## Project Documentation 
 ### How Does it Work?
 
-1. **Paint and Sound Mapping:**  
-   The project uses two ultrasonic sensors. The first sensor is responsible for detecting the "paint" or color the user selects. Each color is mapped to a specific note from the pentatonic scale (A, C, D, E, G).  
-   As the user selects a paint color, the corresponding note is assigned to that color. The pentatonic scale was chosen to ensure even those with no musical experience can create harmonious and pleasant sounds.
+1. **Win/Loss Tracking and Action Mapping:**  
+Mental Fighter monitors the player’s wins and losses. Each outcome triggers a specific action: winning a match prompts Mental Fighter to perform a punch or power-up motion, while losing a match triggers a blocking action. This approach reflects the player’s in-game performance through physical actions, allowing them to see their “mental state” unfold as the game progresses.
 
-2. **Painting Detection and Note Playback:**  
-   The second ultrasonic sensor detects when the user is actively painting. When the user brings their brush or hand within range of this sensor, the system begins playing the assigned note for the selected paint color.  
-   As the user paints with different colors, the system dynamically changes the notes based on the current selection, creating real-time sound corresponding to their artistic actions.
+2. **Real-Time Physical Feedback:**  
+As the player wins or loses consecutive games, Mental Fighter responds with different physical movements. For example, a winning streak prompts it to “power up,” representing momentum and confidence, while losing too many games in a row causes Mental Fighter to curl into a fetal position, indicating mental strain. These physical reactions occur in real-time, giving players immediate, tangible feedback that mirrors their in-game experiences.
 
-3. **Post-Painting Playback (was not able to implement this):**  
-   After the user completes their artwork, the system will play back the sequence of notes in the order they were used during the painting process. This creates a unique musical composition that reflects the creation of the artwork, adding an audio dimension to the visual experience.
+3. **Reflection and Mandatory Breaks:**  
+After each match, players can assess their Mental Fighter’s condition and decide whether to continue or take a break. However, when Mental Fighter reaches the fetal position (a “super block” state) due to excessive losses, the system enforces a 5-minute break. During this time, Mental Fighter remains in the fetal position, signaling the need for a mental reset. Once the 5-minute timer ends, it returns to an idle state, allowing the player to resume gameplay.
 
 
 ## Initial ideas
