@@ -1,4 +1,4 @@
-# Musical Canvas 
+# Mental Fighter 
 
 ### [link to code](https://github.com/AmanH41/CPSC599A1/blob/41984f033abd90305d90bb703be08bec60a39cd7/A1.ino)
 
@@ -21,14 +21,14 @@ As the artist selects different paints, each color triggers a corresponding note
    After the user completes their artwork, the system will play back the sequence of notes in the order they were used during the painting process. This creates a unique musical composition that reflects the creation of the artwork, adding an audio dimension to the visual experience.
 
 
-## Initial idea
+## Initial ideas
 <div style="text-align: center;">
   <img src="A1 idea sketches _241009_210723_1.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-    <img src="A1 idea sketches _241009_210723_2.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+   <img src="A1 idea sketches _241009_210723_2.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
   <img src="IMG_0297.jpg" alt="img1" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
 </div>
 
-## final iteration
+## Prototypes 
 <div style="text-align: center;">
   <img src="IMG_0302.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
   <img src="IMG_0303.jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
