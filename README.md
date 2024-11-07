@@ -29,19 +29,31 @@ As the artist selects different paints, each color triggers a corresponding note
 </div>
 
 ## Prototypes 
+<style>
+  .prototype-images {
+    width: 45%;
+    height: auto;
+    aspect-ratio: 1 / 1; /* Ensures images maintain a square shape */
+    display: inline-block;
+    margin: 10px;
+    object-fit: cover; /* Ensures image fills the container without distortion */
+  }
+</style>
+
 <div style="text-align: center;">
-  <img src="CPSC599A2Images/IMG_0336.PNG" style="width: 45%; height: 45%; display: inline-block; margin: 10px;">
-  <img src="CPSC599A2Images/IMG_0337.PNG" style="width: 45%; height: 45%; display: inline-block; margin: 10px;">
-  <img src="CPSC599A2Images/IMG_0338.PNG" style="width: 45%; height: 45%; display: inline-block; margin: 10px;">
-  <img src="CPSC599A2Images/IMG_0339.PNG" style="width: 45%; height: 45%; display: inline-block; margin: 10px;">
-   <p>Test explaining early prototypes </p>
+  <img src="CPSC599A2Images/IMG_0336.PNG" class="prototype-images">
+  <img src="CPSC599A2Images/IMG_0337.PNG" class="prototype-images">
+  <img src="CPSC599A2Images/IMG_0338.PNG" class="prototype-images">
+  <img src="CPSC599A2Images/IMG_0339.PNG" class="prototype-images">
+  <p>Test explaining early prototypes</p>
 </div>
+
 <div style="text-align: center;">
-  <img src="CPSC599A2Images/IMG_0340.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="CPSC599A2Images/IMG_0341.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="CPSC599A2Images/IMG_0342.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="CPSC599A2Images/IMG_0343.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-   <p>Test explaining pre-final and final prototypes </p>
+  <img src="CPSC599A2Images/IMG_0340.PNG" class="prototype-images">
+  <img src="CPSC599A2Images/IMG_0341.PNG" class="prototype-images">
+  <img src="CPSC599A2Images/IMG_0342.PNG" class="prototype-images">
+  <img src="CPSC599A2Images/IMG_0343.PNG" class="prototype-images">
+  <p>Test explaining pre-final and final prototypes</p>
 </div>
 
 
