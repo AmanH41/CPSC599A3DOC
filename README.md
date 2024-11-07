@@ -32,7 +32,7 @@ As the artist selects different paints, each color triggers a corresponding note
 <style>
   .prototype-images {
     width: auto;           /* Allow width to scale naturally */
-    height: 250px;         /* Set a consistent height for all images */
+    height: 15rem;         /* Set a consistent height for all images */
     max-width: 45%;        /* Limit the width to a reasonable percentage */
     display: inline-block;
     margin: 10px;
