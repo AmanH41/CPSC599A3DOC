@@ -10,7 +10,7 @@ As the artist selects different paints, each color triggers a corresponding note
 ### How Does it Work?
 
 1. **Paint and Sound Mapping:**  
-   The project uses two ultrasonic sensors. The first sensor is responsible for detecting the "paint" or color selected by the user. Each color is mapped to a specific note from the pentatonic scale (A, C, D, E, G).  
+   The project uses two ultrasonic sensors. The first sensor is responsible for detecting the "paint" or color the user selects. Each color is mapped to a specific note from the pentatonic scale (A, C, D, E, G).  
    As the user selects a paint color, the corresponding note is assigned to that color. The pentatonic scale was chosen to ensure even those with no musical experience can create harmonious and pleasant sounds.
 
 2. **Painting Detection and Note Playback:**  
@@ -30,10 +30,10 @@ As the artist selects different paints, each color triggers a corresponding note
 
 ## Prototypes 
 <div style="text-align: center;">
-  <img src="CPSC599A2Images/IMG_0336.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="CPSC599A2Images/IMG_0337.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="CPSC599A2Images/IMG_0338.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
-  <img src="CPSC599A2Images/IMG_0339.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/IMG_0336.PNG" style="width: 45%; height: 45%; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/IMG_0337.PNG" style="width: 45%; height: 45%; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/IMG_0338.PNG" style="width: 45%; height: 45%; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/IMG_0339.PNG" style="width: 45%; height: 45%; display: inline-block; margin: 10px;">
    <p>Test explaining early prototypes </p>
 </div>
 <div style="text-align: center;">
