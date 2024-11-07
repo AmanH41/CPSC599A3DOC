@@ -58,7 +58,7 @@ After each match, players can assess their Mental Fighter’s condition and deci
 
 ### Circuit Schematic Diagram
 <div style="text-align: center;">
-  <img src="CPSC599A2Images/CPSC599A2Circuit.PNG" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+  <img src="CPSC599A2Images/CPSC599A2Circuit.PNG" style="width: 85%; height: auto; display: inline-block; margin: 10px;">
 </div>
 
 ### Demo Video 
