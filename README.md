@@ -72,7 +72,6 @@ For the final version, I further enhanced the design by adding legs, as the tors
 ### Demo Video 
 <div style="text-align: center;">
   <iframe width="560" height="315" 
-  src="asdasd" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
