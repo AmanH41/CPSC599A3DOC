@@ -88,7 +88,7 @@ with the project's story. </p>
 <div style="text-align: center;">
   <iframe 
     width="60%" 
-    height="600" 
+    height="60%" 
     src="https://www.youtube.com/embed/mXJikWVIHtw" 
     title="YouTube video player" 
     frameborder="0" 
