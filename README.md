@@ -76,7 +76,7 @@ For the final version, I further enhanced the design by adding legs, as the tors
   <img src="CPSC599A2Images/CPSC599A2Circuit.PNG" style="width: 85%; height: auto; display: inline-block; margin: 10px;">
 </div>
 
-### Demo Video 
+### Demo Video ### [link to video](https://youtu.be/mXJikWVIHtw)
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://youtu.be/mXJikWVIHtw" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
