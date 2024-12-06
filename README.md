@@ -33,6 +33,13 @@ After each match, players can assess their Mental Fighter’s condition and deci
 As I refined these ideas, I focused more on concepts inspired by my passion for fighting games and competitive spirit. This led me to develop ideas that capture that drive, translating the emotional and mental intensity of gameplay into physical actions and expressions.</p>
 </div>
 
+## Upgrade ideas
+<div style="text-align: center;">
+    <img src="CPSC599A2Images/A2 iteration_241118_191831_2 (1).jpg" style="width: 45%; height: auto; display: inline-block; margin: 10px;">
+    
+   <p> When brainstorming iteration ideas for Mental Stack, most concepts leaned more toward software than hardware. In my view, the embodiment I had built didn’t require significant upgrades but could have benefited from enhancements like adding lights or possibly upgrading the material to a 3D-printed body. The layout of Mental Fighter worked well and didn’t require any dramatic changes. The major improvements I envisioned included game integration, where Mental Fighter would respond autonomously to in-game data rather than relying on manual win/loss inputs, and adding sound effects to accompany the animations. </p>
+</div>
+
 ## Prototypes 
 <style>
   .prototype-images {
@@ -65,11 +72,12 @@ To reduce friction, I added tape, which helped when moving the arm manually. How
 For the final version, I further enhanced the design by adding legs, as the torso alone felt incomplete. The legs now contribute to the “block” and “super block” animations, creating a more dynamic range of expressions and enabling potential future features, like kicks. With a more humanoid figure in place, I also added a head to complete the design and give Mental Fighter a fully rounded appearance.</p>
 </div>
 
+## Final Version
 <div style="text-align: center;">
-  <img src="CPSC599A2Images/mental_fighter.JPG" class="prototype-images">
-  <p>The for A3 improvements</p>
+<img src="CPSC599A2Images/mental_fighter.JPG" class="prototype-images">
+<p>For A3, the main improvement involved giving Mental Fighter a new paint job to make it resemble a fighting game character, specifically Ryu from Street Fighter. This change was intended to enhance the character's robustness and align its design    
+with the project's story. </p>
 </div>
-
 
 ### Circuit Schematic Diagram
 <div style="text-align: center;">
