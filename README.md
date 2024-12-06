@@ -87,7 +87,7 @@ with the project's story. </p>
 ### Demo Video [link to video](https://youtu.be/mXJikWVIHtw)
 <div style="text-align: center;">
   <iframe 
-    width="600px" 
+    width="600" 
     height="auto" 
     src="https://www.youtube.com/embed/mXJikWVIHtw" 
     title="YouTube video player" 
