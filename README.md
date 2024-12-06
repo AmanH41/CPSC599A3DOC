@@ -63,6 +63,11 @@ To reduce friction, I added tape, which helped when moving the arm manually. How
 For the final version, I further enhanced the design by adding legs, as the torso alone felt incomplete. The legs now contribute to the “block” and “super block” animations, creating a more dynamic range of expressions and enabling potential future features, like kicks. With a more humanoid figure in place, I also added a head to complete the design and give Mental Fighter a fully rounded appearance.</p>
 </div>
 
+<div style="text-align: center;">
+  <img src="CPSC599A2Images/mental_fighter.JPG" class="prototype-images">
+  <p>The for A3 improvements</p>
+</div>
+
 
 ### Circuit Schematic Diagram
 <div style="text-align: center;">
