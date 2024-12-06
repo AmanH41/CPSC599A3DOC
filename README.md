@@ -78,11 +78,10 @@ For the final version, I further enhanced the design by adding legs, as the tors
 
 ### Demo Video 
 <div style="text-align: center;">
-  <iframe width="560" height="315" 
+  <iframe width="560" height="315" src="https://youtu.be/mXJikWVIHtw" 
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
-
 
 ## Refrence 
 <a href="https://docs.arduino.cc/learn/electronics/servo-motors/">Guide for servo motors </a><br>
