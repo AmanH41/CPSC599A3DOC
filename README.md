@@ -78,11 +78,16 @@ For the final version, I further enhanced the design by adding legs, as the tors
 
 ### Demo Video [link to video](https://youtu.be/mXJikWVIHtw)
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=mXJikWVIHtw&ab_channel=AmanAli" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/mXJikWVIHtw" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
   </iframe>
 </div>
-
 
 
 ## Refrence 
