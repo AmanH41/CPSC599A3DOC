@@ -83,6 +83,10 @@ For the final version, I further enhanced the design by adding legs, as the tors
   </iframe>
 </div>
 
+<a href="https://youtu.be/mXJikWVIHtw" target="_blank">
+  <img src="https://img.youtube.com/vi/mXJikWVIHtw/0.jpg" alt="Demo Video" />
+</a>
+
 ## Refrence 
 <a href="https://docs.arduino.cc/learn/electronics/servo-motors/">Guide for servo motors </a><br>
 <a href="https://www.youtube.com/watch?v=tF3-zdU4qhw&ab_channel=TD_Sculptures%26Crafts">tutorial helped with building mental fighters body </a><br>
