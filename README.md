@@ -74,7 +74,7 @@ For the final version, I further enhanced the design by adding legs, as the tors
 
 ## Final Version
 <div style="text-align: center;">
-<img src="CPSC599A2Images/mental_fighter.JPG" class="prototype-images">
+<img src="CPSC599A2Images/mental_fighter.JPG" style="width: 65%; height: auto; display: inline-block; margin: 10px;">
 <p>For A3, the main improvement involved giving Mental Fighter a new paint job to make it resemble a fighting game character, specifically Ryu from Street Fighter. This change was intended to enhance the character's robustness and align its design    
 with the project's story. </p>
 </div>
